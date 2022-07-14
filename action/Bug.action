@@ -1,0 +1,9 @@
+# goal definition
+float64 goal_x
+float64 goal_y
+---
+# result definition
+# reached = 1 -> ARTag within 2m
+# reached = 0 -> ARTag not within 2m
+bool reached
+---

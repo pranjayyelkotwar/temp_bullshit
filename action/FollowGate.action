@@ -1,0 +1,10 @@
+# goal definition
+int32 cx
+int32 cy
+---
+# result definition
+# reached = 1 -> ARTag within 2m
+# reached = 0 -> ARTag not within 2m
+bool reached
+---
+# feedback definition

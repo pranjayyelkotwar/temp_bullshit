@@ -1,0 +1,10 @@
+# goal definition
+string class_name
+---
+# result definition
+bool found
+int32 cx
+int32 cy
+---
+# feedback definition
+float32 iterations
